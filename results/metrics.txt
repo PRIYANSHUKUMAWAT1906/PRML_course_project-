@@ -1,0 +1,36 @@
+Logistic Regression
+Accuracy: 0.9950
+Precision: 0.9933
+Recall: 0.9966
+F1-score: 0.9950
+Confusion Matrix:
+	300	2
+	1	297
+
+SVM
+Accuracy: 0.9950
+Precision: 0.9933
+Recall: 0.9966
+F1-score: 0.9950
+Confusion Matrix:
+	300	2
+	1	297
+
+KNN
+Accuracy: 0.9950
+Precision: 0.9933
+Recall: 0.9966
+F1-score: 0.9950
+Confusion Matrix:
+	300	2
+	1	297
+
+Decision Tree
+Accuracy: 0.9767
+Precision: 0.9702
+Recall: 0.9832
+F1-score: 0.9767
+Confusion Matrix:
+	293	9
+	5	293
+
